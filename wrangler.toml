@@ -1,0 +1,6 @@
+name = "headless-browser"
+main = "index.js"
+compatibility_date = "2026-05-30"
+
+[browser]
+binding = "MYBROWSER"
